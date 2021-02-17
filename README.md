@@ -1,4 +1,4 @@
-# Softuni Programming Basics with Java
+# SoftUni Programming Basics with Java
 
 1. Simply operations and calculations
 2. Conditional statements
